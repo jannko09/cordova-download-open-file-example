@@ -18,7 +18,7 @@ Uses legacy storage ("/downloads") folder.
 
 Example usage: 
  ```
-  downlodOpenFile({
+  downloadOpenFile({
     mimeType: "image/jpeg",
     title: "any.jpg",
     url: "https://this-is-the-server-url-to-download-resource.com"
