@@ -124,4 +124,4 @@ async function downloadOpenFile(file) {
 }
 
 
-export {  downlodOpenFile, FileUtility };
+export {  downloadOpenFile, FileUtility };
