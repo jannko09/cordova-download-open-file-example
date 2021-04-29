@@ -21,6 +21,6 @@ Example usage:
   downlodOpenFile({
     mimeType: "image/jpeg",
     title: "any.jpg",
-    url: https://this-is-the-server-url-to-download-resource.com
+    url: "https://this-is-the-server-url-to-download-resource.com"
   });
    ```
