@@ -104,7 +104,7 @@ class FileUtility {
   }
 }
 
-async function downlodOpenFile(file) {
+async function downloadOpenFile(file) {
   console.log(file);
   let fileEntry = null;
   const fileUtility = new FileUtility(file);
