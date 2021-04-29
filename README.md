@@ -15,3 +15,12 @@ Uses legacy storage ("/downloads") folder.
       <application android:requestLegacyExternalStorage="true" />
  </edit-config>
  ```
+
+Example usage: 
+ ```
+  downlodOpenFile({
+    mimeType: "image/jpeg",
+    title: "any.jpg",
+    url: https://this-is-the-server-url-to-download-resource.com
+  });
+   ```
